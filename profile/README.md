@@ -9,8 +9,8 @@
 >
 > — Wernher von Braun
 
-Experimenting with new experiences, protocols, and infrastructure to build novel multi-agent systems — A2A, MCP, AGUI and beyond.
-
 </td>
 </tr>
 </table>
+
+Experimenting with new experiences, protocols, and infrastructure to build novel multi-agent systems — A2A, MCP, AGUI and beyond.
