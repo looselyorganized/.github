@@ -21,7 +21,7 @@ Experimenting with new protocols and infrastructure to build novel multi-agent e
 
 <h3><a href="https://looselyorganized.org/projects/nexus">Nexus</a></h3>
 
-`status: experimenting` · `access: restricted`
+![status: experimenting](https://img.shields.io/badge/status-experimenting-yellow?style=flat-square) ![access: restricted](https://img.shields.io/badge/access-restricted-orange?style=flat-square)
 
 Coordination server for multi-agent engineering teams — prevents file collisions, preserves knowledge across sessions, and manages feature lifecycles.
 
