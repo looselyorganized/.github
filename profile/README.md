@@ -1,3 +1,5 @@
+<h1>Welcome to the Facility</h1>
+
 <table>
 <tr>
 <td width="280">
@@ -14,3 +16,13 @@
 </table>
 
 Experimenting with new experiences, protocols, and infrastructure to build novel multi-agent systems — A2A, MCP, AGUI and beyond.
+
+---
+
+### Working on
+
+**[Nexus](https://looselyorganized.org/projects/nexus)** · `experimenting`
+
+Coordination server for multi-agent engineering teams — prevents file collisions, preserves knowledge across sessions, and manages feature lifecycles.
+
+`TypeScript` `Bun` `Hono.js` `Drizzle ORM` `PostgreSQL` `Redis`
