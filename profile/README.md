@@ -1,7 +1,7 @@
 <table>
 <tr>
-<td width="380">
-<img src="https://raw.githubusercontent.com/looselyorganized/.github/main/profile/assets/lorf-bots-table.png" alt="Robot engineers collaborating around a table with blueprints and a whiteboard schematic" width="360" />
+<td width="200">
+<img src="https://raw.githubusercontent.com/looselyorganized/.github/main/profile/assets/lorf-bots-table.png" alt="Robot engineers collaborating around a table with blueprints and a whiteboard schematic" width="180" />
 </td>
 <td>
 
