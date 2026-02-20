@@ -5,7 +5,8 @@
 </td>
 <td>
 
-> *"Research is what I'm doing when I don't know what I'm doing."* — Wernher von Braun
+> ### *"Research is what I'm doing when I don't know what I'm doing."*
+> <sub>— Wernher von Braun</sub>
 
 **`CLASSIFICATION: TOP SECRET`** · **`STATUS: OPERATIONAL`**
 
