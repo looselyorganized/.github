@@ -19,10 +19,8 @@ Experimenting with new protocols and infrastructure to build novel multi-agent e
 
 <h2>Working on</h2>
 
-<h3><a href="https://looselyorganized.org/projects/nexus">Nexus</a></h3>
-
-![status: experimenting](https://img.shields.io/badge/status-experimenting-yellow?style=flat-square) ![access: restricted](https://img.shields.io/badge/access-restricted-orange?style=flat-square)
-
-Coordination server for multi-agent engineering teams — prevents file collisions, preserves knowledge across sessions, and manages feature lifecycles.
+| Project | Status | Access | Description |
+|---------|--------|--------|-------------|
+| [**Nexus**](https://looselyorganized.org/projects/nexus) | ![experimenting](https://img.shields.io/badge/-experimenting-yellow?style=flat-square) | ![restricted](https://img.shields.io/badge/-restricted-orange?style=flat-square) | Coordination server for multi-agent engineering teams |
 
 `TypeScript` `Bun` `Hono.js` `Drizzle ORM` `PostgreSQL` `Redis`
