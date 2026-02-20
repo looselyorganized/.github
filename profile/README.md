@@ -12,7 +12,7 @@
 
 **`CLASSIFICATION: TOP SECRET`** · **`STATUS: OPERATIONAL`**
 
-We experiment with new experiences, protocols, and infrastructure to build novel multi-agent systems — A2A, MCP, AGUI and beyond.
+Experimenting with new experiences, protocols, and infrastructure to build novel multi-agent systems — A2A, MCP, AGUI and beyond.
 
 </td>
 </tr>
