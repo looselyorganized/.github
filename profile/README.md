@@ -3,7 +3,7 @@
 <table>
 <tr>
 <td width="280">
-<img src="https://raw.githubusercontent.com/looselyorganized/.github/main/profile/assets/lorf-bots-table.png" alt="Robot engineers collaborating around a table with blueprints and a whiteboard schematic" width="260" />
+<img src="https://raw.githubusercontent.com/looselyorganized/.github/main/profile/assets/lorf-bot-explosion.png" alt="Robot celebrating with an explosion of parts and tools" width="260" />
 </td>
 <td>
 
