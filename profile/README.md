@@ -5,13 +5,9 @@
 </td>
 <td>
 
-*"Research is what I'm doing when I don't know what I'm doing."*
-<br>
-<sub>— Wernher von Braun</sub>
-
----
-
-**`CLASSIFICATION: TOP SECRET`** · **`STATUS: OPERATIONAL`**
+> *"Research is what I'm doing when I don't know what I'm doing."*
+>
+> — Wernher von Braun
 
 Experimenting with new experiences, protocols, and infrastructure to build novel multi-agent systems — A2A, MCP, AGUI and beyond.
 
