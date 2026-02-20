@@ -17,9 +17,7 @@ Experimenting with new protocols and infrastructure to build novel multi-agent e
 </tr>
 </table>
 
----
-
-### Working on
+<h2>Working on</h2>
 
 **[Nexus](https://looselyorganized.org/projects/nexus)** · `experimenting`
 
