@@ -1,5 +1,9 @@
 <h1>Welcome to the Facility</h1>
 
+Experimenting with new protocols and infrastructure to build novel multi-agent experiences — A2A, MCP, AGUI and beyond.
+
+A testing ground for the very infrastructure it researches. The site is both the showcase and the proving ground — every feature we build tests one of our projects in production.
+
 <table>
 <tr>
 <td width="280">
@@ -14,8 +18,6 @@
 </td>
 </tr>
 </table>
-
-Experimenting with new experiences, protocols, and infrastructure to build novel multi-agent systems — A2A, MCP, AGUI and beyond.
 
 ---
 
