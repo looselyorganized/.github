@@ -19,8 +19,6 @@ Experimenting with new protocols and infrastructure to build novel multi-agent e
 
 <h2>Working on</h2>
 
-| Project | Status | Access | Description |
-|---------|--------|--------|-------------|
-| [**Nexus**](https://looselyorganized.org/projects/nexus) | ![experimenting](https://img.shields.io/badge/-experimenting-yellow?style=flat-square) | ![restricted](https://img.shields.io/badge/-restricted-orange?style=flat-square) | Coordination server for multi-agent engineering teams |
-
-`TypeScript` `Bun` `Hono.js` `Drizzle ORM` `PostgreSQL` `Redis`
+| Project | Status | Access | Stack | Description |
+|---------|--------|--------|-------|-------------|
+| [**Nexus**](https://looselyorganized.org/projects/nexus) | ![experimenting](https://img.shields.io/badge/-experimenting-yellow?style=flat-square) | ![restricted](https://img.shields.io/badge/-restricted-orange?style=flat-square) | TypeScript, Bun, Hono.js, Drizzle, PostgreSQL, Redis | Coordination server for multi-agent engineering teams |
