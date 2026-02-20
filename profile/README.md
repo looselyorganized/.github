@@ -19,9 +19,7 @@ Experimenting with new protocols and infrastructure to build novel multi-agent e
 
 <h2>Working on</h2>
 
-<h3><a href="https://looselyorganized.org/projects/nexus">Nexus</a></h3>
-
-`experimenting`
+<h3><a href="https://looselyorganized.org/projects/nexus">Nexus</a> <sub>Status: experimenting</sub></h3>
 
 Coordination server for multi-agent engineering teams — prevents file collisions, preserves knowledge across sessions, and manages feature lifecycles.
 
