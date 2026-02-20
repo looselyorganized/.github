@@ -5,17 +5,26 @@
 </td>
 <td>
 
-### STATUS: Operational
+# Welcome to the lab 🧪
 
-We build coordination infrastructure for multi-agent systems. Distributed locking, institutional memory, agentic protocols — the plumbing that makes AI agents work together without stepping on each other.
+**`CLASSIFICATION: TOP SECRET`** · **`STATUS: OPERATIONAL`**
 
-Everything here is open source. If agents are going to run the world, the coordination layer shouldn't be proprietary.
+We experiment with new experiences, protocols, and infrastructure to build novel multi-agent systems — A2A, MCP, AGUI and beyond.
 
 </td>
 </tr>
 </table>
 
 ## Research Areas
+
+```
+AREA                      STATUS          CLASSIFICATION
+-----------------------------------------------------------
+Agent Coordination        active          open
+Institutional Memory      active          open
+Agentic Protocols         researching     open
+Agent-Native Tooling      researching     open
+```
 
 - **Agent Coordination** — Distributed locking, file claims, conflict resolution for multi-agent engineering teams
 - **Institutional Memory** — Persistent knowledge bases that give AI agents continuity across sessions
