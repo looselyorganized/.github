@@ -5,7 +5,8 @@
 </td>
 <td>
 
-<h2><em>"Research is what I'm doing when I don't know what I'm doing."</em></h2>
+*"Research is what I'm doing when I don't know what I'm doing."*
+<br>
 <sub>— Wernher von Braun</sub>
 
 ---
