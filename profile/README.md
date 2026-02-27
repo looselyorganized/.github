@@ -1,7 +1,3 @@
-<h1>Welcome to the Facility</h1>
-
-Experimenting with new protocols and infrastructure to build novel multi-agent experiences — A2A, MCP, AGUI and beyond.
-
 <table>
 <tr>
 <td width="280">
@@ -16,9 +12,3 @@ Experimenting with new protocols and infrastructure to build novel multi-agent e
 </td>
 </tr>
 </table>
-
-<h2>Working on</h2>
-
-| Project | Status | Access | Description |
-|---------|--------|--------|-------------|
-| [**Nexus**](https://looselyorganized.org/projects/nexus) | experimenting | restricted | Coordination server for multi-agent engineering teams — prevents file collisions, preserves knowledge across sessions, and manages feature lifecycles. |
