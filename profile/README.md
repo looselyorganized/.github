@@ -41,6 +41,5 @@ and more...
 
 ---
 
-
-The "Loosely Organized Research Facility" takes its name from the definition of a Skunkworks 🦨 and is a nod to the curious innovators thatm came before who gave us the courage to ask, "what if?" 💡🚀
+The "Loosely Organized Research Facility" derives its name from the definition of a Skunkworks. We aim to embody the spirit of the curious innovators that came before who gave us all the courage to ask, "what if?"
 
