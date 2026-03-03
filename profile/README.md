@@ -15,8 +15,8 @@ Each project that the lab releases is an exploration of new agentic experiences 
 - How do we incentivize agents and actors to cooperate? 
 - What does a business comprised completely of agents look like? 
 - How do we redefine infrastructure like search for agents?
-- How does your agent discover agents around the world to interact with? 
-- What does security against nefarious agents look like? How does agent a) detect that agent b) is not trustworthy? 
+- How does your agent discover others around the world to interact with? 
+- What does security against nefarious agents look like?
 
 and more...
 
@@ -41,6 +41,6 @@ and more...
 
 ---
 
-```
-The "Loosely Organized Research Facility" takes its name from the definition of a Skunkworks and is a nod to the curious innovators that gave us the courage to ask, "what if?" 
-```
+
+The "Loosely Organized Research Facility" takes its name from the definition of a Skunkworks 🦨 and is a nod to the curious innovators that gave us the courage to ask, "what if?" 💡🚀
+
