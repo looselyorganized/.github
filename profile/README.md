@@ -9,7 +9,9 @@
 
 LORF is a living experiment. 
 
-Each project that the lab releases is an exploration of new agentic experiences or systems that support multi-agent coordination. Our mission is to stay curious and imagine the way the world could or should be rather than the way it is.      
+Each project that the lab releases is an exploration of new agentic experiences or systems that support multi-agent coordination. 
+
+Our mission is to stay curious and imagine the way the world could or should be rather than the way it is.      
 
 - How do agents coordinate at massive scales? 
 - How do we incentivize agents and actors to cooperate? 
