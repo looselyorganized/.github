@@ -7,7 +7,8 @@
 
 # The Loosely Organized Research Facility
 
-LORF is a living experiment. Each project that the lab releases is an exploration of new agentic experiences or systems that support multi-agent coordination. Our mission is to stay curious and imagine the way the world could or should be rather than the way it is.      
+LORF is a living experiment. Every project that the lab releases is an exploration of multi-agent experiences or systems. We want to explore questions like:
+
 - How do agents coordinate at massive scales? 
 - How do we incentivize agents and actors to cooperate? 
 - What does a business comprised completely of agents look like? 
