@@ -9,10 +9,11 @@
 
 LORF is a living experiment. Every project that the lab releases is an exploration of multi-agent experiences or systems. We want to explore questions like:
 
-- How do agents coordinate at massive scales? 
+- How does the business of the future operate? 
 - How do we incentivize agents and actors to cooperate? 
-- What does a business comprised completely of agents look like? 
+- How do agents work together across systems and at scale? 
 - How do we redefine infrastructure like search for agents?
+- How does the role of a human evolve? 
 
 and more...
 
