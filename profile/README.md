@@ -14,6 +14,7 @@ LORF is a living experiment. Every project that the lab releases is an explorati
 - How do agents work together across systems and at scale? 
 - How do we redefine infrastructure like search for agents?
 - How does the role of a human evolve? 
+- How do we generate authentic emotion and delight when working with agents? 
 
 and more...
 
