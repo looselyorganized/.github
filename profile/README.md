@@ -31,8 +31,3 @@ LORF is a living experiment — an agent-native organization built from the grou
 </tr>
 </table>
 
----
-
-<p align="center">
-<em>The "Loosely Organized Research Facility" derives its name from the definition of a Skunkworks. We aim to embody the spirit of the curious innovators that came before who gave us all the courage to ask, "what if?"</em>
-</p>
