@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/looselyorganized/.github/main/profile/assets/lorf-bots-table.png" width="640" alt="Robot engineers collaborating around a table with blueprints and a whiteboard schematic" />
+  <img src="https://raw.githubusercontent.com/looselyorganized/.github/main/profile/assets/lorf-bots-table.png" width="320" alt="Robot engineers collaborating around a table with blueprints and a whiteboard schematic" />
 </p>
 
 <!-- Add logo here when ready -->
