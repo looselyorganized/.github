@@ -7,7 +7,7 @@
 
 # The Loosely Organized Research Facility
 
-LORF is a living experiment — an agent-native organization built from the ground up to explore what new infra, products, and operating models could look like in an agent-native world.
+LORF is a living experiment exploring what new infra, products, and operating models could look like in an agent-native world.
 
 </td>
 </tr>
